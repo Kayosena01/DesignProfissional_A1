@@ -1,9 +1,8 @@
 # DesignProfissional_A1
 # 🚀 PROJETO DE TRANSIÇÃO: DESIGN PROFISSIONAL A1 - A FUNDAÇÃO DA CARREIRA
 
-## 🌟 APRESENTAÇÃO EXECUTIVA: O PERFIL KAYOSENA01
 
-Eu sou **[SEU NOME COMPLETO]**, um profissional em formação, atuando como **Estudante de [Seu Curso]** no **Primeiro Semestre**. Este repositório, **DesignProfissional_A1**, é o resultado de um mergulho profundo nos fundamentos cruciais da tecnologia, estabelecendo a base para uma carreira como [Seu Título Desejado, Ex: Desenvolvedor Full-Stack ou Arquiteto de Dados].
+Eu sou **Kayo Roberto Sena**, um profissional em formação, atuando como **Estudante de Analise desenvolvimento de sistemas** no **Primeiro Semestre**. Este repositório, **DesignProfissional_A1**, é o resultado de um mergulho profundo nos fundamentos cruciais da tecnologia, estabelecendo a base para uma carreira como [Seu Título Desejado, Ex: Desenvolvedor Full-Stack ou Arquiteto de Dados].
 
 Minha motivação é construir soluções digitais que sejam **estrategicamente sólidas** e **visualmente acessíveis**. Cada projeto aqui contido reflete uma abordagem 360 graus: da **lógica fria** do código à **calidez** do Design de Interface.
 
@@ -84,22 +83,3 @@ Para replicar o ambiente de desenvolvimento:
 3.  **Acesse:** Utilize a documentação específica de cada subpasta para instruções de *setup* (Scripts SQL, abertura de `index.html` ou execução de código).
 
 ---
-
-## 🤝 CONECTE-SE AO ARQUITETO
-
-Estou em fase de crescimento acelerado e aberto a conexões, *mentoring* e oportunidades que valorizem a fundação de um desenvolvimento sólido e estruturado.
-
-| Detalhe | Informação |
-| :--- | :--- |
-| **Nome Completo** | [SEU NOME COMPLETO] |
-| **LinkedIn** | [Seu Link do LinkedIn] |
-| **Email Profissional** | [Seu Email] |
-| **Foco Atual** | Transição de Fundamentos para **Frameworks Modernos** (Ex: React, Node.js) |
-
-***
-
-<div align="center">
-  <img src="https://www.adobe.com/br/express/discover/ideas/banner" alt="Banner de Conclusão do Semestre" width="600"/>
-  <br>
-  <small>Agradeço o seu interesse e tempo investido na análise do meu trabalho.</small>
-</div>
