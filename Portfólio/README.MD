@@ -53,9 +53,9 @@ Estou sempre aberto a novas conexões e oportunidades de aprendizado!
 
 | Plataforma | Link |
 | :--- | :--- |
-| **Email:** | [Seu Email Profissional] |
-| **LinkedIn:** | [Seu Link do LinkedIn] |
-| **GitHub:** | [Link do seu perfil GitHub (Kayosena01)] |
+| **Email:** | [Kayoroberto9@gmail.com] |
+| **LinkedIn:** | [https://www.linkedin.com/in/kayoroberto01/] |
+| **GitHub:** | [https://github.com/Kayosena01] |
 
 <div align="center">
   <small>Última Atualização: [Mês e Ano]</small>
