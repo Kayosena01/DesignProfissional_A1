@@ -21,12 +21,3 @@ Abaixo estão as pastas de cada disciplina/módulo, com um breve resumo do conte
 
 > **Nota:** Cada subpasta contém um arquivo `README.md` detalhado sobre o respectivo projeto, tecnologias e instruções de execução.
 
----
-
-## 🔑 Metodologia de Organização
-
-A estrutura de organização visa a clareza e a rastreabilidade das entregas acadêmicas:
-
-* **Separação por Disciplina:** Cada pasta é um módulo de estudo.
-* **Nome do Repositório:** A estrutura `[NomeDoCurso]_A1` sugere que estes são os materiais da primeira atividade avaliativa ou do primeiro grande projeto.
-
