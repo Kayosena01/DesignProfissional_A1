@@ -13,15 +13,6 @@ O objetivo principal foi aplicar as tecnologias fundamentais da Web para constru
 
 ---
 
-## 📂 Estrutura de Arquivos
-
-A organização segue a convenção de projetos front-end, facilitando a manutenção e a localização dos componentes:
-
-Desenvolvimento_front_end_para_web/ ├── index.html # Ponto de entrada principal do projeto ├── assets/ │ ├── css/ │ │ └── style.css # Arquivo principal de estilos (CSS) │ ├── js/ │ │ └── script.js # Arquivo principal de lógica (JavaScript) │ └── img/ # Imagens, ícones e outros ativos visuais └── README.md # (Este arquivo) Documentação do projeto
-
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 As seguintes tecnologias foram empregadas neste projeto:
