@@ -1,4 +1,4 @@
-# 💾 Modelagem de Banco de Dados - [Nome do Projeto/Tema]
+# 💾 Modelagem de Banco de Dados 
 
 ## 🎯 Sobre o Projeto e a Disciplina
 
