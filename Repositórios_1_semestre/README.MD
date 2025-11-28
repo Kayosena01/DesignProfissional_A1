@@ -30,12 +30,3 @@ A estrutura de organização visa a clareza e a rastreabilidade das entregas aca
 * **Separação por Disciplina:** Cada pasta é um módulo de estudo.
 * **Nome do Repositório:** A estrutura `[NomeDoCurso]_A1` sugere que estes são os materiais da primeira atividade avaliativa ou do primeiro grande projeto.
 
----
-
-## 📞 Contato e Autoria
-
-| Aluno | Repositório Principal |
-| :--- | :--- |
-| **[Seu Nome Completo]** | Kayosena01 |
-
-**Status:** Materiais do 1º Semestre Concluídos.
